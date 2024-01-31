@@ -2,4 +2,4 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=favorcat)](https://solved.ac/favorcat)
    
-![](https://github.com/favorcat/favorcat/blob/output/github-contribution-grid-snake.gif)
+![](https://raw.githubusercontent.com/favorcat/favorcat/output/github-contribution-grid-snake.svg)
